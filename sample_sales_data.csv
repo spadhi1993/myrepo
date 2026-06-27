@@ -1,0 +1,6 @@
+OrderID,Product,Quantity,UnitPrice,Region
+1001,Laptop,2,750,India
+1002,Monitor,5,180,US
+1003,Keyboard,10,25,UK
+1004,Mouse,12,15,Germany
+1005,Headset,4,60,Australia
